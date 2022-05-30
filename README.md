@@ -1,4 +1,6 @@
 This is steps to understand the remote and local repository
+not other code uploaded
+this is made by the bash command prompt :)
 .
 .
 first chgange the working directory that you prefer to work
